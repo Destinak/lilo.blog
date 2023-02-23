@@ -2,5 +2,5 @@
 headless = true
 name = "Destina Kaya"
 image = ""
-url = "/about/"
+url = "about Biologie"
 +++
