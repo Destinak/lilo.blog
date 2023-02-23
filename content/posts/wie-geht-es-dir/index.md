@@ -4,8 +4,22 @@ date = "2023-02-23"
 draft = false
 pinned = false
 tags = []
-image = "https://www.iloveimg.com/download/g27d4mrsg3ztmnzAgm5d3njAgfm2n1rr8r3s1n305ww1bnlznbccjh74jm6x2gkpgypyqzk96r2g8Af6y6nk3zf6fd3srmpczkfwl9d68d898gAApfgcz12wlzy96bqfzns0xmA5scclj8llbm7k7l5f9Ahzkygph5j21zwj5169dgvpj2qq/8"
+image = "0.jpeg"
 description = "Immer happy bleiben!!!!!!!! "
-footnotes = "quelle schreiben"
+footnotes = "Quelle: Frau Blöchlinger"
 +++
-ihihIÖVHDRGVhsFéGHVHHwafghiswFHöowrhfghFOHqefohjqgjorhoJQF
+###### `Eine Biozönosebesteht nicht aus zufällig zusammengewürfelten Tier und Pflanzenarten, sondern sie stellt eine charakteristische Gemeinschaft von Arten, die miteinander in Wechselbeziehungen stehen. (Die Gesamtheit der abiotischen und biotischen Umweltfaktoren bestimmt das Vorkommen und die Häufigkeit einer Art). Versuchen sie die Fördernde und die hemmenden Wechselbeziehungenvisuell darzustellen. Biozönose: Wolf, Insekten, Wapiti-Hirsche, Feuchtgebeite, Greifvögel, Füchse, Nagetiere, Espen, Gabelantilope, Biber, Amphibien, Singvögel, Kojote.`
+
+Das könnte helfen: <https://www.ecosia.org/search?q=biologie&tts=st_asaf_macos>
+
+## Warum denn?
+
+> "Aus dem Unterricht"
+>
+> 1. warum?
+> 2. ja?
+> 3. Nein?
+
+* aha
+* nein
+* yooo
