@@ -14,6 +14,8 @@ SynapsenDen Spalt zwischen eine Nervenzelle und ihre Zielzelle bezeichnet man al
 
 Gruppenpuzzle NervengifteExpertenphase:Sie erhalten jeweils in Gruppen eine Substanz zugeteilt, welche die Aktivität der Synapsen beeinflusst. Studieren Sie den Text und tauschen Sie sich aus. Mit welcher Wirkungsweise agiert die Substanz? Bereiten Sie sich vor, die Vorgänge auf der zellulären Ebene vorzustellen. Dafür steht Ihnen eine PP zur Verfügung wobei die genauen Prozesse mithilfe eines Stop-Motions visuell dargestellt sind. Ergänzen Sie die Powerpoint mit einer Einleitung und einem Ausblick wo Sie die wichtigsten Punkte zusammenfassen. Austauschphase:Stellen Sie jeweils die Substanz mithilfe der Powerpoint vor und erklären Sie die Vorgänge. Entscheiden Sie zusammen auf welche Wirkungsweise die Substanz unsere Synapsen beeinflussen. Zahlreiche Medikamente oder Giftstoffe entfalten ihre Wirkung an Synapsen. Substanzen die unsere chemischen Synapsen beeinflussen wirken auf unterschiedliche Art und Weise. Man unterscheidet folgende Wirkungsweisen: Die Substanz...
 
+![](0.jpeg)
+
 \
 Das könnte helfen: <https://www.ecosia.org/search?q=biologie&tts=st_asaf_macos>
 
