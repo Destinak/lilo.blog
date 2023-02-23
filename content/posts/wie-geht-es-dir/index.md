@@ -1,5 +1,5 @@
 +++
-title = "Wie geht es dir?"
+title = "Wie geht es dir?."
 date = "2023-02-23"
 draft = true
 pinned = false
