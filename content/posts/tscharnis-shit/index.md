@@ -1,5 +1,5 @@
 +++
-title = "Tscharnis shit"
+title = "Deutsch"
 date = "2023-03-18"
 draft = true
 pinned = false
