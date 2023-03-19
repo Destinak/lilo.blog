@@ -1,12 +1,10 @@
 +++
 title = "Deutsch"
-date = "2023-03-18"
+date = "2023-03-19"
 draft = true
 pinned = false
 +++
 # **Die Reise und das Leben einer Migrantin in der Schweiz**
-
-
 
 *Reporterin:* können sie beschreiben wie sie von äthiopien ind die schweiz gekommen seit?
 
@@ -29,6 +27,8 @@ pinned = false
 *Reporterin:* Werden sie von den Staatsangehörigen unterstützt?
 
 *Benet:* Es kommt ganz drauf an, um welche Person es sich handelt. Es gab Menschen die mich unterstützt haben mit meiner Migration, aber auch Menschen die mich mit hass aufgenommen haben, weil ich zum Beispiel Schwierigkeiten mit der Deutschen sprache habe. Es gab aber auch sehr nette Schweizerfamilien die mich unterstützt haben und mir immer wieder gerne geholfen haben.
+
+
 
 *Reporterin:* Wie ist ihr aktuelles Wohlbefinden?
 
