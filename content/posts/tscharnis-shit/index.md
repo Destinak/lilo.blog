@@ -4,9 +4,11 @@ date = "2023-03-19"
 draft = false
 pinned = false
 +++
-*Reporterin:* können sie beschreiben wie sie von Äthiopien in die Schweiz gekommen seit?
+{{<Benet Belay, sie ist 47 Jahre alt, kommt aus Äthiopien und lebt aktuell in einer Wg in Bümpliz. Im Jahr 2012 ist sie aus Äthiopien in die Schweit imigriert. Ihren Wunsch, eine Familie zu gründen, hat sie sich bis heute nicht verwirklicht. Ausserdem lautet ihr Fazit zu ihrem Lebensstil, dass das Leben für viele sehr schwierig ist.>}} 
 
-*Benet:* Es fällt mir sehr schwer, darüber zu sprechen, weil ich alles verdrängt habe. Als ich 2012 in die Schweiz einwanderte und keine Papiere hatte, war das Leben sehr schwierig. Ganz am Anfang, als ich in die Schweiz einwanderte, lebte ich in einer Art unterirdischen Keller. Ich hatte kein Essen, keine Kleidung und kein Geld, aber mein damaliger Chef half mir und gab mir Kleidung. Ich musste fünf Monate bei der Polizei bleiben und habe dort ehrenamtlich gearbeitet. Dann bekam ich Papiere nach der Arbeit. Ich hatte die Möglichkeit, vieles zu zügeln, wofür ich sehr dankbar bin. Zuerst zog ich nach Bümpliz und dann in ein Lager in Hinterkappeln. Jetzt lebe ich in einer WG, in der ich sehr zufrieden bin.
+*Reporterin:* Können Sie beschreiben wie Sie von Äthiopien in die Schweiz gekommen sind?
+
+*Benet:*  Es ist sehr schwierig für mich darüber zu reden da ich alles verdrängt habe. Als ich im Jahr 2012  in die Schweiz immigriert bin und keine Papiere hatte war das Leben sehr schwierig. Ganz am Anfang als ich in die Schweiz immigrierte, lebte in einer Art unterirdischem Keller. Ich hatte kein essen, keine Kleider und kein Geld, jedoch hat mir mein damaliger Chef geholfen und hat mir Kleider geschenkt. Ich musste fünf Monate mit der Polizei bleiben und leistete dort freiwillige Arbeit. Anschliessend habe ich nach der Arbeit, Papiere bekommen. Ich hatte die Möglichkeit viel zu Zügeln, für das ich sehr dankbar bin. Zuerst bin ich nach Bümpliz gezogen und danach nach Hinterkappelen in ein Camp. Jetzt wohne ich jetzt in einer WG in der ich sehr zufrieden bin. 
 
 
 
@@ -18,19 +20,19 @@ pinned = false
 
 *Reporterin:* Wie ist das Leben alleine?
 
-*Benet:* Ich würde nicht unbedingt sagen, dass ich alleine lebe, da ich derzeit in einer WG lebe und mit mehreren Personen Kontakt habe. Ganz am Anfang, als ich in die Schweiz kam, war ich alleine, das war damals sehr schwierig, aber jetzt geht es mir besser.
+*Benet:* Ich würde nicht unbedingt sagen das ich alleine Lebe, da ich momentan in einer WG bin und indem mit mehreren Menschen Kontakt habe. Ganz am Anfang wenn ich in die Schweiz gekommen bin war ich alleine, damals war es sehr schwierig, doch im Moment geht es mir besser. 
 
 
 
 *Reporterin:* Werden sie von den Staatsangehörigen unterstützt?
 
-*Benet:* Es hängt alles davon ab, wer es ist. Es gab Menschen, die mich bei meiner Migration unterstützt haben, aber auch Menschen, die mich gehasst haben, weil ich zum Beispiel Schwierigkeiten mit der deutschen Sprache habe. Aber es gab auch sehr nette Schweizer Familien, die mich unterstützt haben und mir immer gerne weitergeholfen haben.
+*Benet:* Es kommt ganz drauf an, um welche Person es sich handelt. Es gab Menschen die mich unterstützt haben mit meiner Migration, aber auch Menschen die mich mit hass aufgenommen haben, weil ich zum Beispiel Schwierigkeiten mit der Deutschen Sprache habe. Es gab aber auch sehr nette Schweizerfamilien die mich unterstützt haben und mir immer wieder gerne geholfen haben.
 
 
 
 *Reporterin:* Wie ist ihr aktuelles Wohlbefinden?
 
-*Benet:* Es gibt immer wider Momente, in denen ich glücklich bin, doch grundsätzlich fühle ich mich in meinem Leben nicht wohl. Ich habe jeden tag sehr viel stress und ausserdem ist es in der Schweiz sehr schwierig klar zu kommen, wenn man fast kein Geld und auch keine Pass hat. Ich habe keine feste Geldquelle und bin dadurch verpflichtet sehr viel zu bieten um wenig davon zurück zu bekommen.
+*Benet:* Es gibt immer wider Momente, in denen ich glücklich bin, doch grundsätzlich fühle ich mich in meinem Leben nicht wohl. Ich habe jeden tag sehr viel stress und ausserdem ist es in der Schweiz sehr schwierig klar zu kommen, wenn man fast kein Geld und auch keine Pass hat. Ich habe keine feste Geldquelle und bin dadurch verpflichtet sehr viel zu bieten um wenig davon zurück zu bekommen. 
 
 
 
@@ -42,4 +44,4 @@ pinned = false
 
 *Reporterin:* Fühlen sie sich besser, wenn sie beschäftigt sind?
 
-*Benet:* Ja, ich fühle mich viel besser, wenn ich beschäftigt bin. Ich bleibe nicht gerne zu Hause, weil ich dann immer viel Zeit habe, meine Vergangenheit im Kopf durchzuspielen, jedes Erlebnis wiederholt sich, was mich sehr deprimiert. Deshalb mag ich es, wenn ich einen Job oder eine Arbeit habe. Ich habe diesen Kurs mit Vera jeden Montag, wo ich mit anderen sprechen kann, die in einer ähnlichen Situation wie ich sind. Am Dienstag habe ich die Möglichkeit, mich ehrenamtlich zu engagieren, am Mittwoch arbeite ich als Dienstleister und an den restlichen Wochentagen helfe ich in einer WG mit einer sehr netten Frau aus. Ich habe mich auch in einem Fitnessstudio angemeldet, um mir Zeit zu geben.
+*Benet:* Ja, es geht mir viel besser wenn ich beschäftigt bin. Ich mag es nicht zuhause zu bleiben, weil ich dann immer sehr viel Zeit habe, um meine Vergangenheit im Kopf durch zu spielen, jedes Erlebnis spielt sich immer wieder ab, was mich sehr bedrückt. Deswegen mag ich es, wenn ich eine Beschäftigung habe oder arbeite. Ich habe jeden Montag diesen Kurs mit Vera, wo ich mit anderen die in einer ähnlichen Situation wie ich sind reden kann. Am Dienstag habe ich die Gelegenheit freiwillige Arbeit zu absolvieren, am Mittwoch arbeite ich als Service und an den restlichen Wochentagen helfe ich in einer Wg einer sehr netten Frau. Ich habe mich ausserdem bei einem Fitness Studio angemeldet, um mir Zeit zu schenken.
