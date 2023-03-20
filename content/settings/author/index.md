@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Destina Kaya"
+name = "Destina Kaya und Lenka Michalkova"
 image = ""
-url = "about Biologie"
+url = ""
 +++
