@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "img_8869.jpg"
 +++
-sgjvhkubdse
-
 {{<Benet Belay, sie ist 47 Jahre alt, kommt aus Äthiopien und lebt aktuell in einer Wg in Bümpliz. Im Jahr 2012 ist sie aus Äthiopien in die Schweit imigriert. Ihren Wunsch, eine Familie zu gründen, hat sie sich bis heute nicht verwirklicht. Ausserdem lautet ihr Fazit zu ihrem Lebensstil, dass das Leben für viele sehr schwierig ist.>}} 
 
 *Reporterin:* Können Sie beschreiben wie Sie von Äthiopien in die Schweiz gekommen sind?
