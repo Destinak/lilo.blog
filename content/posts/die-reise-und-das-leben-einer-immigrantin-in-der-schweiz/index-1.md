@@ -3,7 +3,7 @@ title = "Die Reise und das Leben einer Immigrantin in der Schweiz"
 date = "2023-03-18"
 draft = false
 pinned = false
-image = "img_8869.jpg"
+image = ""
 +++
 {{<Benet Belay, sie ist 47 Jahre alt, kommt aus Äthiopien und lebt aktuell in einer Wg in Bümpliz. Im Jahr 2012 ist sie aus Äthiopien in die Schweit imigriert. Ihren Wunsch, eine Familie zu gründen, hat sie sich bis heute nicht verwirklicht. Ausserdem lautet ihr Fazit zu ihrem Lebensstil, dass das Leben für viele sehr schwierig ist.>}}
 
