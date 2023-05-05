@@ -3,7 +3,7 @@ title = "Ist man wirklich alleine in einem fremden Land"
 date = "2023-05-05"
 draft = false
 pinned = false
-image = "img_8869.jpg"
+image = "unknown.jpeg"
 +++
 {{<lead>}}
 Benet Belay (47) aus Äthiopien ist vor 10 Jahren ohne ihre Familie in die Schweiz immigriert. Mit der Familie in Äthiopien ist der Kontakt abgebrochen. Wir wollen mit Benet über ihre Gefühle, ihre Immigrations-Erfahrungen und deren Auswirkungen auf ihr Leben sprechen.
