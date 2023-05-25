@@ -5,7 +5,11 @@ draft = false
 pinned = false
 image = "unknown.jpeg"
 +++
-{{<lead>}}
+{{<lead>}} 
+
+![Benet Belay, im Tscharni Restaurant Bümpliz](img_8869.jpg)
+
+
 Benet Belay (47) aus Äthiopien ist vor 10 Jahren ohne ihre Familie in die Schweiz immigriert. Mit der Familie in Äthiopien ist der Kontakt abgebrochen. Wir wollen mit Benet über ihre Gefühle, ihre Immigrations-Erfahrungen und deren Auswirkungen auf ihr Leben sprechen.
 {{</lead>}}
 
