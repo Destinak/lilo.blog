@@ -5,12 +5,11 @@ draft = false
 pinned = false
 image = "unknown.jpeg"
 +++
-{{<lead>}} 
+
 
 ![Benet Belay, im Tscharni Restaurant Bümpliz](img_8869.jpg)
 
-
-Benet Belay (47) aus Äthiopien ist vor 10 Jahren ohne ihre Familie in die Schweiz immigriert. Mit der Familie in Äthiopien ist der Kontakt abgebrochen. Wir wollen mit Benet über ihre Gefühle, ihre Immigrations-Erfahrungen und deren Auswirkungen auf ihr Leben sprechen.
+{{<lead>}} Benet Belay (47) aus Äthiopien ist vor 10 Jahren ohne ihre Familie in die Schweiz immigriert. Mit der Familie in Äthiopien ist der Kontakt abgebrochen. Wir wollen mit Benet über ihre Gefühle, ihre Immigrations-Erfahrungen und deren Auswirkungen auf ihr Leben sprechen.
 {{</lead>}}
 
 Wir steigen in Bümpliz aus und gehen weiter, bis wir das Café vor uns sehen. Langsam und unsicher betreten wir das Café Tscharni und spüren die warme einladende Atmosphäre. Gespräche im Hintergrund dringen an unsere Ohren. Normalerweise ist es nicht üblich, dass es in diesem Restaurant eine Menge von Menschen hat, die von der Immigration betroffen sind, jedoch ist es heute anders. Eine Gruppe von Immigranten trifft sich heute in dem Café Tscharni und wir haben die Gelegenheit dabei zu sein. Vor dem Gespräch mit Benet Belay bekommen wir erst einmal einen Einblick in den Kurs, der hier wöchentlich im Café stattfindet. In dem Raum sind Frauen, die alle ähnliche Erfahrungen machen. Sie tauschen sich zuerst gegenseitig über ihr Wochenende aus, steigen danach aber direkt in den eigentlichen Kurs ein. In diesem sind pro Gruppe etwa 10 Frauen. Die Kursleiterin Vera stellt ihnen Aufgaben, die sie gemeinsam auf Deutsch lösen müssen. 
