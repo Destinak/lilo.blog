@@ -7,25 +7,47 @@ image = "img_0725.jpeg"
 +++
 Ich gehe durch den Wald so still und leise,
 
+ 
+
 genieße die Natur und ihre Weise.
+
+ 
 
 Die Vögel singen, die Blumen blühen,
 
+ 
+
 der Wind weht sanft und lässt mich glühen.
+
+ 
 
 Ich spüre die Sonne auf meiner Haut,
 
+ 
+
 atme tief ein und fühle mich vertraut.
+
+ 
 
 Mit dieser Welt, die mich umgibt,
 
+ 
+
 die mich interessiert und immer wieder liebt.
+
+ 
 
 Ich bin dankbar für jeden Augenblick,
 
+ 
+
 für jeden Moment und jeden Blick.
 
+ 
+
 Ich bin dankbar für das Leben hier,
+
+ 
 
 für all das Schöne, das ich fühlen und sehen kann mit dir.
 
