@@ -29,16 +29,40 @@ Ich bin dankbar für das Leben hier,
 
 für all das Schöne, das ich fühlen und sehen kann mit dir.
 
-Der Wald ist ein Ort so grün und weit,\
-wo die Natur in voller Schönheit gedeiht.\
-Die Bäume ragen hoch in die Luft,\
-und die Vögel singen ihre fröhliche Luft.\
-Die Sonne scheint durch die Blätter hindurch,\
-und der Wind weht sanft und macht keine Furcht.\
-Im Wald kann man sich so frei und leicht fühlen,\
+ 
+
+Der Wald ist ein Ort so grün und weit,
+
+\
+wo die Natur in voller Schönheit gedeiht.
+
+\
+Die Bäume ragen hoch in die Luft,
+
+\
+und die Vögel singen ihre fröhliche Luft.
+
+\
+Die Sonne scheint durch die Blätter hindurch,
+
+\
+und der Wind weht sanft und macht keine Furcht.
+
+\
+Im Wald kann man sich so frei und leicht fühlen,
+
+\
 es ist ein Ort, an dem man seine Seele heilen kann.
 
-Im Wald, wo die Bäume in den Himmel ragen,\
-kann man die Natur in voller Pracht ertragen.\
-Die Vögel singen ein fröhliches Lied,\
+ 
+
+Im Wald, wo die Bäume in den Himmel ragen,
+
+\
+kann man die Natur in voller Pracht ertragen.
+
+\
+Die Vögel singen ein fröhliches Lied,
+
+\
 und die Sonne scheint durch das Blätterdach so friedlich und lieb.
