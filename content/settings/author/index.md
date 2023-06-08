@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Destina Kaya und Lenka Michalkova"
+name = "Destina Kaya"
 image = ""
 url = ""
 +++
