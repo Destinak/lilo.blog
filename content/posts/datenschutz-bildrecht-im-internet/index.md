@@ -14,9 +14,7 @@ Das Bildrecht im Internet ist ein komplexes Thema, das von Land zu Land untersch
 
 {{</box>}}
 
-
-
-###### Die Regelungen im Rahmen „Bildrecht“
+#### Die Regelungen im Rahmen „Bildrecht“
 
 Das Urheberrechtsgesetze regelt das Bildrecht im Internet. Es besagt, dass die Verwendung von Bildern, die von anderen erstellt wurden, ohne deren Erlaubnis illegal ist. Dies bedeutet, dass Sie, wenn Sie Bilder im Internet verwenden möchten, die nicht von Ihnen stammen, sicherstellen müssen, dass Sie das Recht haben, diese Bilder zu verwenden.
 
@@ -30,12 +28,11 @@ Insgesamt ist es wichtig, das Urheberrecht im Internet zu respektieren und siche
 
 
 
-##### Die Konsequenzen:
+#### Die Konsequenzen:
 
 Wenn Sie das Bildrecht im Internet verletzen, können Sie rechtliche Konsequenzen wie Schadensersatzforderungen, Abmahnungen oder sogar strafrechtliche Verfolgung erwarten. Wenn Sie ein Foto oder ein anderes kreatives Werk ohne Erlaubnis des Urhebers verwenden oder teilen, können Sie auch gegen die Nutzungsbedingungen von Websites verstossen und Ihr Konto oder Ihre Zugriffsrechte auf Websites können gesperrt werden. Es ist wichtig, dass Sie sich an die Bestimmungen des Urheberrechts halten und sicherstellen, dass Sie die Erlaubnis des Urhebers haben, bevor Sie Fotos oder andere Inhalte verwenden oder teilen.
 
-##### \
-Was kann ich tun, um von keinen Konsequenzen betroffen zu sein?
+#### Was kann ich tun, um von keinen Konsequenzen betroffen zu sein?
 
 \- Verwenden Sie keine Fotos oder andere kreative Werke, die Sie nicht selbst erstellt haben, ohne die Erlaubnis des Urhebers.
 
