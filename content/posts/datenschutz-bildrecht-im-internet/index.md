@@ -4,6 +4,7 @@ date = "2023-06-08"
 draft = false
 pinned = false
 tags = ["Bildrecht"]
+image = "img_0734.jpeg"
 footnotes = "<https://www.ifolor.ch/inspirationen/bildrechte-der-schweiz#:~:text=In%20der%20Schweiz%20wird%20das,Bilder%20von%20ihm%20veröffentlicht%20werden. >\n\n<https://www.advocado.de/ratgeber/medien-und-urheberrecht/urhebergesetz/recht-am-eigenen-bild.html#:~:text=Wer%20das%20Recht%20am%20Bild,Löschung%2C%20Unterlassung%20und%20Schadensersatz%20fordern >"
 +++
 #### Was ist Bildrecht im Internet eigentlich?
