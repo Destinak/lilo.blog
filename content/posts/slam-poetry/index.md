@@ -3,6 +3,7 @@ title = "Slam Poetry"
 date = "2023-05-30"
 draft = false
 pinned = false
+tags = ["SlamPoetry", "Wald"]
 image = "img_0725.jpeg"
 +++
 Ich gehe durch den Wald so still und leise,
