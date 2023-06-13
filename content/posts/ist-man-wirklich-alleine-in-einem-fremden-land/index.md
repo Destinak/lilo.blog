@@ -9,17 +9,11 @@ image = "unknown.jpeg"
 {{<lead>}} Benet Belay (47) aus Äthiopien ist vor 10 Jahren ohne ihre Familie in die Schweiz immigriert. Mit der Familie in Äthiopien ist der Kontakt abgebrochen. Wir wollen mit Benet über ihre Gefühle, ihre Immigrations-Erfahrungen und deren Auswirkungen auf ihr Leben sprechen.
 {{</lead>}}
 
-
-
-
-
 {{<box>}}
 
-Immigration bezieht sich auf die dauerhafte oder vorübergehende Bewegung von Menschen aus einem Land in ein anderes, um dort zu leben und zu arbeiten. Es kann viele Gründe für die Einwanderung geben, einschließlich der Suche nach besseren wirtschaftlichen oder sozialen Bedingungen. Ein Beispiel für Migration ist, wenn jemand aus einem ländlichen Gebiet in eine Stadt zieht, um Arbeit zu finden. Ein anderes Beispiel ist, wenn jemand aus einem anderen Land in die Schweiz zieht, um hier zu studieren oder zu arbeiten.
+Immigration bezieht sich auf die dauerhafte oder vorübergehende Bewegung von Menschen aus einem Land in ein anderes, um dort zu leben und zu arbeiten. Es kann viele Gründe für die Einwanderung geben, einschließlich der Suche nach besseren wirtschaftlichen oder sozialen Bedingungen. Ein Beispiel für Migration ist, wenn jemand aus einem ländlichen Gebiet in eine Stadt zieht, um Arbeit zu finden. Ein anderes Beispiel ist, wenn jemand aus einem anderen Land in die Schweiz zieht, um hier zu studieren oder zu arbeiten. Im Jahr 2021 hatten 2 890 000 Personen bzw. 39% der ständigen Wohnbevölkerung ab 15 Jahren einen Migrationshintergrund. Etwas mehr als ein Drittel dieser Bevölkerungsgruppe (1 090 000 Personen) besass die Schweizer Staatsangehörigkeit. Mehr als vier Fünftel der Personen mit Migrationshintergrund (2 276 000 Personen) gehören zur ersten Generation, während ein Fünftel (615 000 Personen) in der Schweiz geboren wurde. Mehrs als drei Viertel der ständigen Wohnbevölkerung unter 15 Jahren besitzen die Schweizer Staatsangehörigkeit und sind in der Schweiz geboren. Das verbleibende Viertel ist entweder im Ausland (10%: 8% ausländische und 2% schweizerische Staatsangehörige) bzw. in der Schweiz geboren und im Besitz eines ausländischen Passes (19%).
 
 {{</box>}}
-
-
 
 ![Benet Belay, im Tscharni Restaurant Bümpliz](img_8869.jpg)
 
